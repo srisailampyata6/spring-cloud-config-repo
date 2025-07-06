@@ -3,7 +3,7 @@ server:
 
 currency:
   from:
-    usd: 1
+    usd: 2
   to:
     inr: 85
 
