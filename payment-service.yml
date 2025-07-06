@@ -1,0 +1,11 @@
+server:
+  port: 8889
+
+currency:
+  from:
+    usd: 1
+  to:
+    inr: 85
+
+this:
+  profile: default
